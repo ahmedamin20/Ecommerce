@@ -1,0 +1,29 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "shirt",
+        "product_price": 20,
+        "product_kind": "cloths",
+        "product_image": "./assets/images/products/3.jpg",
+        "product_discount": 10,
+        "product_rate": 4
+    },
+    {
+        "product_id": 2,
+        "product_name": "sweet_shirt",
+        "product_price": 100,
+        "product_kind": "cloths",
+        "product_image": "./assets/images/products/3.jpg",
+        "product_discount": 50,
+        "product_rate": 5
+    },
+    {
+        "product_id": 3,
+        "product_name": "angle",
+        "product_price": 10,
+        "product_kind": "accessories",
+        "product_image": "./assets/images/products/3.jpg",
+        "product_discount": 0,
+        "product_rate": 3
+    }
+]
