@@ -2385,6 +2385,27 @@ i.fa-solid.fa-trash-can:hover {
         width: 30%;
         text-align: center;
     }
+    /*-------------------*/
+    .product-main {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .product-grid {
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .showcase {
+        width: 90%;
+    }
+    .product-main h2.title {
+        font-size: larger;
+    }
 }
 
 
